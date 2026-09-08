@@ -570,20 +570,13 @@ Las visualizaciones más importantes para comunicar el proyecto son:
 ## 1. Lanzamientos de videojuegos por año
 
 Permite observar cómo evolucionó la industria y detectar periodos de expansión y contracción.
+<img width="1014" height="569" alt="image" src="https://github.com/user-attachments/assets/92a0a019-ba76-400e-89f6-d5dea3891a84" />
+
 
 ## 2. Ventas globales por plataforma
 
 Permite comparar el tamaño comercial histórico de las diferentes plataformas y visualizar la concentración de ventas.
-
-## 3. Ventas por género y región
-
-Permite mostrar cómo cambian las preferencias de videojuegos entre Norteamérica, Europa y Japón.
-
-## Visualización adicional
-
-### Relación entre `critic_score` y ventas
-
-Ayuda a mostrar que existe cierta relación positiva, pero que una puntuación alta no garantiza automáticamente ventas elevadas.
+<img width="580" height="417" alt="image" src="https://github.com/user-attachments/assets/1079939a-3b98-45c3-aa50-f26194bbbd96" />
 
 ---
 
