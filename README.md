@@ -589,30 +589,3 @@ Project-SP6/
 ├── games.csv
 └── README.md
 ```
-
----
-
-# 18. 🚀 Proyecto completo
-
-El análisis completo se encuentra disponible en el Jupyter Notebook incluido en este repositorio.
-
-### Archivos principales
-
-- `Proyecto_ipynb_SP6.ipynb`
-- `games.csv`
-
----
-
-## 👤 Autor
-
-**Mario Eduardo Padilla Pérez**
-
-Junior Data Analyst
-
-**Python · Pandas · Statistical Analysis · Data Visualization · EDA**
-
----
-
-## 📌 Nota
-
-Proyecto desarrollado como parte de mi formación en **Análisis de Datos en TripleTen**, aplicando limpieza de datos, análisis exploratorio, segmentación regional, análisis estadístico y pruebas de hipótesis para estudiar patrones comerciales dentro del mercado de videojuegos.
